@@ -1,0 +1,11 @@
+0.3          Minf     
+1000000         Rinf      
+0.0         ALF      
+300         Tt          
+-10         ERmx   
+0.9         CFLx    
+4         NRKS   
+100         NWrite  
+0        Init 
+0.65
+0.008   
